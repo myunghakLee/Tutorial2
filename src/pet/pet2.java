@@ -64,6 +64,7 @@ public class pet2 {
 	}
 
 	public int getAge() {
+		
 		return 0;
 		// 구현하시오.
 	}
